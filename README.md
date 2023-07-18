@@ -1,4 +1,4 @@
-# AgonORIGINS
+# Agon light ORIGINS edition™
 
 ![IMG_0489 Background Removed small](https://github.com/TheByteAttic/AgonORIGINS/assets/69539226/ce5cd024-0671-4303-9a74-fef4bcb837c0)
 
