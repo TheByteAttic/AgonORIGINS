@@ -2,7 +2,7 @@
 
 ![IMG_0489 Background Removed small](https://github.com/TheByteAttic/AgonORIGINS/assets/69539226/ce5cd024-0671-4303-9a74-fef4bcb837c0)
 
-Agon light ORIGINS edition™ is a new board revision of the earlier <a href="https://github.com/TheByteAttic/AgonLight">Agon light™</a>. It is 100% backward compatible and does not entail extra capabilities. The idea behind it is to create a cleaner, more optimal, premium design that excels in signal integrity and robustness; this thing won't fail hardware-wise. At the same time, it aims to preserve some of the quirks of the original Agon light™, such as a large USB socket for power and firmware programming, a real PS/2 connector for the keyboard, a linear, through-hole LDO regulator, as two through-hole electrolytic capacitors.<br>
+Agon light ORIGINS edition™ is a new board revision of the earlier <a href="https://github.com/TheByteAttic/AgonLight">Agon light™</a>. It is 100% backward compatible and does not entail extra capabilities. The idea behind it is to create a cleaner, more optimal, premium design that excels in signal integrity and robustness; this thing will work stably even under quite adverse environmental conditions, and it looks great too. At the same time, it aims to preserve some of the quirks of the original Agon light™, such as a large USB socket for power and firmware programming, a real PS/2 connector for the keyboard, a linear, through-hole LDO regulator, as two through-hole electrolytic capacitors.<br>
 These are the improvements with respect to the original Agon light™:
 <UL>
   <LI>Highly optimized routing, significantly reducing the numer of VIA hopings and trace length;</LI>
