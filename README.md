@@ -1,5 +1,7 @@
 # Agon light ORIGINS edition™
 
+For software and firmware, plus related instructions, please go to the <a href="https://github.com/breakintoprogram/agon-docs/wiki">Agon Wiki</a> or visit the <a href="https://www.facebook.com/groups/agoncomputer">developers' group</a>. 
+
 ![IMG_0489 Background Removed small](https://github.com/TheByteAttic/AgonORIGINS/assets/69539226/ce5cd024-0671-4303-9a74-fef4bcb837c0)
 
 Agon light ORIGINS edition™ is a new board revision of the earlier <a href="https://github.com/TheByteAttic/AgonLight">Agon light™</a>. It is 100% backward compatible and does not entail extra capabilities. The idea behind it is to create a cleaner, more optimal, premium design that excels in signal integrity and robustness; this thing will work stably even under quite adverse environmental conditions. And it looks great too!<br><br>
