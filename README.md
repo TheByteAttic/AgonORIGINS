@@ -13,5 +13,5 @@ These are the improvements with respect to the original Agon light™:
   <LI>Shrouded control port connector (eliminating the need for TVS diodes).</LI>
 </UL>
 You can use the Gerber files in this repository to make or order your own boards. You can then choose board thickness, finish and solder mask. In the photos in this repository, I have used 1 mm total board thickness (to maximize the distributed capacitance created by the inner Vcc and GND planes), gold finish (1 Oz), 1 Oz metal thickness in all four layers, and black solder mask.
-<br><p>
-Copyright © 2023 by Bernardo Kastrup. All rights reserved. <a href="https://github.com/TheByteAttic/AgonORIGINS/blob/main/LICENSE">License conditions</a> apply.</p>
+<br><br>
+Copyright © 2023 by Bernardo Kastrup. All rights reserved. <a href="https://github.com/TheByteAttic/AgonORIGINS/blob/main/LICENSE">License conditions</a> apply.
