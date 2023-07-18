@@ -1,1 +1,1 @@
-These photos of a correctly-assembled Agon light ORIGINS edition™ can be used as references during assembly of a new unit. They can also be used for promotional purposes by the press or anybody else.
+These photos of a correctly-assembled Agon light ORIGINS edition™ can be used as references during assembly of a new unit. They can also be used for promotional purposes by the press or anybody else. If you are a (freelance) journalist or blogger writing about Agon, you may use these photos without explicit permission from me.
