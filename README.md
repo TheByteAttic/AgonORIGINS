@@ -8,7 +8,7 @@ These are the improvements with respect to the original Agon light™:
   <LI>Highly optimized routing, significantly reducing the numer of VIA hopings and trace length;</LI>
   <LI>Optimized layer stack, with GND copper fill on top (the original had Vcc fill on top for heat dissipation, but that wasn't needed);</LI>
   <LI>Larger and less stitching VIAs;</LI>
-  <LI>In-line resistors on the data bus to absorb reflections;</LI>
+  <LI>In-line resistor bank (33Ω) on the data bus to absorb reflections;</LI>
   <LI>USB-B power/firmware upload connector (instead of the non-standard USB-A of the earlier revision);</LI>
   <LI>Shrouded control port connector (eliminating the need for TVS diodes).</LI>
 </UL>
