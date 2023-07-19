@@ -1,6 +1,6 @@
 # Agon light ORIGINS edition™
 
-For software and firmware, plus related instructions, please go to the <a href="https://github.com/breakintoprogram/agon-docs/wiki">Agon Wiki</a> or visit the <a href="https://www.facebook.com/groups/agoncomputer">developers' group</a>.<br> 
+For software and firmware, plus related instructions, please go to the <a href="https://github.com/breakintoprogram/agon-docs/wiki">Agon Wiki</a> or visit the <a href="https://www.facebook.com/groups/agoncomputer">developers' group</a>.<br><br>
 
 ![IMG_0489 Background Removed small](https://github.com/TheByteAttic/AgonORIGINS/assets/69539226/ce5cd024-0671-4303-9a74-fef4bcb837c0)
 
