@@ -8,7 +8,7 @@ Agon light ORIGINS edition™ is a new board revision of the earlier <a href="ht
 At the same time, this ORIGINS edition of Agon light™ deliberately preserves some of the quirks of the original design, such as a large USB socket for power and firmware programming, a real PS/2 connector for the keyboard, a linear through-hole LDO regulator, and two through-hole electrolytic capacitors.<br><br>
 These are the improvements with respect to the original Agon light™:
 <UL>
-  <LI>Highly optimized routing, significantly reducing the numer of VIA hopings and trace length;</LI>
+  <LI>Highly optimized routing, significantly reducing the number of VIA hopings and trace length;</LI>
   <LI>Optimized layer stack, with GND copper fill on top (the original had Vcc fill on top for heat dissipation, but that wasn't needed);</LI>
   <LI>Larger and less stitching VIAs;</LI>
   <LI>In-line resistor bank (33Ω) on the data bus to absorb reflections;</LI>
